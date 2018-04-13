@@ -6,6 +6,7 @@ addons:
     organization: dfalessi-github
     token:
       secure: f83e2dc9f9ee86d7f9c2364943c618ef26aeab23
+	  
 jdk:
   - oraclejdk8
 script:
